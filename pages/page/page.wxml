@@ -1,0 +1,7 @@
+<!--pages/page/page.wxml-->
+<view>
+  <image style="" src="http://p2desz41n.bkt.clouddn.com/20180708_nano-ui.JPG"></image>
+</view>
+<view class="paper">
+  <wemark md="{{markdown}}" link highlight type="wemark"></wemark>
+</view>

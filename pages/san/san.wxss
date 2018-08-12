@@ -1,0 +1,39 @@
+/* pages/san/san.wxss */
+.swiper-tab{
+    width: 100%;
+    border-bottom: 2rpx solid #ccc;
+    text-align: center;
+    height: 7%;
+    line-height: 88rpx;
+    display: flex;
+    flex-flow: row;
+    justify-content: space-between;
+}
+.swiper-tab-item{
+    width: 30%; 
+    color:#000000;
+}
+.active{
+    color:#000000;
+    border-bottom: 4rpx solid #000000;
+}
+swiper{
+  text-align: center;
+  height: 100%;
+}
+
+page,
+.page,
+.page__bd{
+    height: 100%;
+}
+.page__bd{
+    padding-bottom: 0;
+}
+.weui-tab__content{
+    padding-top: 60px;
+    text-align: center;
+}
+.swiper-data {
+  height:91%;
+}

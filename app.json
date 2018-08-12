@@ -1,0 +1,46 @@
+{
+  "pages": [
+    "pages/wei/wei",
+    "pages/page/page",
+    "pages/san/san",
+    "pages/jue/jue",
+    "pages/bian/bian"
+  ],
+  "tabBar": {
+    "color": "#000",
+    "selectedColor": "#000",
+    "position": "bottom",
+    "list": [
+      {
+        "pagePath": "pages/wei/wei",
+        "iconPath": "images/wei1.png",
+        "selectedIconPath": "images/wei2.png",
+        "text": "韦"
+      },
+      {
+        "pagePath": "pages/bian/bian",
+        "iconPath": "images/bian3.png",
+        "selectedIconPath": "images/bian4.png",
+        "text": "编"
+      },
+      {
+        "pagePath": "pages/san/san",
+        "iconPath": "images/san1.png",
+        "selectedIconPath": "images/san2.png",
+        "text": "三"
+      },
+      {
+        "pagePath": "pages/jue/jue",
+        "iconPath": "images/jue1.png",
+        "selectedIconPath": "images/jue2.png",
+        "text": "绝"
+      }
+    ]
+  },
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "(๑•̀ㅂ•́)و✧",
+    "navigationBarTextStyle": "black"
+  }
+}

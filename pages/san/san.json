@@ -1,0 +1,11 @@
+{
+  "window": {
+    "navigationBarBackgroundColor": "#ffff00",
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "三：文/音/视",
+    "backgroundColor": "#eeeeee",
+    "backgroundTextStyle": "light",
+    "enablePullDownRefresh": false
+  }
+  
+}
