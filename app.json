@@ -4,7 +4,10 @@
     "pages/page/page",
     "pages/san/san",
     "pages/jue/jue",
-    "pages/bian/bian"
+    "pages/bian/bian",
+    "pages/about/self/self",
+    "pages/about/sns/sns",
+    "pages/about/websit/websit"
   ],
   "tabBar": {
     "color": "#000",
