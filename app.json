@@ -13,26 +13,26 @@
     "list": [
       {
         "pagePath": "pages/wei/wei",
-        "iconPath": "images/wei1.png",
-        "selectedIconPath": "images/wei2.png",
+        "iconPath": "images/wei2.png",
+        "selectedIconPath": "images/wei1.png",
         "text": "韦"
       },
       {
         "pagePath": "pages/bian/bian",
-        "iconPath": "images/bian3.png",
-        "selectedIconPath": "images/bian4.png",
+        "iconPath": "images/bian4.png",
+        "selectedIconPath": "images/bian3.png",
         "text": "编"
       },
       {
         "pagePath": "pages/san/san",
-        "iconPath": "images/san1.png",
-        "selectedIconPath": "images/san2.png",
+        "iconPath": "images/san2.png",
+        "selectedIconPath": "images/san1.png",
         "text": "三"
       },
       {
         "pagePath": "pages/jue/jue",
-        "iconPath": "images/jue1.png",
-        "selectedIconPath": "images/jue2.png",
+        "iconPath": "images/jue2.png",
+        "selectedIconPath": "images/jue1.png",
         "text": "绝"
       }
     ]
