@@ -1,2 +1,8 @@
-<!--pages/jue/jue.wxml-->
-<text>pages/jue/jue.wxml</text>
+<view class='blog-container'>
+  <!-- <view>BLOG</view>
+        <view>
+          <button bindtap="getPageData">test</button>
+        </view> -->
+  <view class="blog-item">
+  </view>
+</view>

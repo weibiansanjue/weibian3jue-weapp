@@ -1,1 +1,13 @@
-/* pages/jue/jue.wxss */
+.blog-item {
+  width: 30%;
+  border-radius: 8px;
+  border-style: solid;
+  border-width: 1px;
+  height: 100rpx;
+  background-image: url('https://lg-bfz00xae-1256031156.cos.ap-shanghai.myqcloud.com/bg.png');
+  background-size: cover;
+}
+
+.blog-container {
+  padding: 5rpx 15rpx 5rpx 15rpx;
+}
