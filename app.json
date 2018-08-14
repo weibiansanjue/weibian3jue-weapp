@@ -1,7 +1,7 @@
 {
   "pages": [
-    "pages/wei/wei",
     "pages/page/page",
+    "pages/wei/wei",
     "pages/san/san",
     "pages/jue/jue",
     "pages/bian/bian",
