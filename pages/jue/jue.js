@@ -13,7 +13,7 @@ Page({
    */
   onLoad: function (options) {
     wx.setNavigationBarTitle({
-      title: '👍绝：一技之长'
+      title: '绝：一技之长'
     });
   },
 

@@ -1,7 +1,9 @@
 <!--pages/page/page.wxml-->
-<view>
+<view class='paper-header'>
   <image style="" src="http://p2desz41n.bkt.clouddn.com/20180708_nano-ui.JPG"></image>
 </view>
-<view class="paper">
+<view class="paper-data">
   <wemark md="{{markdown}}" link highlight type="wemark"></wemark>
+</view>
+<view class="paper-footer">
 </view>

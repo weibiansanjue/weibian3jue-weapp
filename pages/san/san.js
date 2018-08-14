@@ -1,6 +1,3 @@
-// pages/san/san.js
-var sliderWidth = 96; // 需要设置slider的宽度，用于计算中间位置
-
 Page({
 
   /**
@@ -16,7 +13,7 @@ Page({
   onLoad: function (options) {
     var that = this;
     wx.setNavigationBarTitle({
-      title: '📐三：文/音/视'
+      title: '三：文/音/视'
     });   
 
   },
@@ -84,6 +81,7 @@ Page({
     });
   },
 
+  //点击切换
   clickTab: function (e) {
     var that = this;
     if (this.data.currentTab === e.target.dataset.current) {
