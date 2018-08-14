@@ -1,0 +1,58 @@
+<view>
+  <view>
+    <text class='cat-title'>关于</text>
+  </view>
+  <view>
+    <i-row i-class="">
+      <i-col span="12" i-class="">
+        <view class='about about-me' data-type='me' bindtap='gotoDetail'></view>
+      </i-col>
+      <i-col span="12" i-class="">
+        <view class='about about-sit' data-type='site' bindtap='gotoDetail'></view>
+      </i-col>
+    </i-row>
+    <i-row i-class="">
+      <i-col span="12" i-class="">
+        <view class='about about-sns' data-type='sns' bindtap='gotoDetail'></view>
+      </i-col>
+      <i-col span="12" i-class="">
+        <view class='about about-thx' data-type='thx' bindtap='gotoDetail'></view>
+      </i-col>
+    </i-row>
+  </view>
+</view>
+<view>
+  <view>
+    <text class='cat-title'>内容</text>
+  </view>
+  <view>
+    <scroll-view>
+      <view><text class='cat-title'>hello</text></view>
+      <view><text class='cat-title'>hello</text></view>
+      <view><text class='cat-title'>hello</text></view>
+      <view><text class='cat-title'>hello</text></view>
+      <view><text class='cat-title'>hello</text></view>
+      <view><text class='cat-title'>hello</text></view>
+      <view><text class='cat-title'>hello</text></view>
+      <view><text class='cat-title'>hello</text></view>
+      <view><text class='cat-title'>hello</text></view>
+      <view><text class='cat-title'>hello</text></view>
+      <view><text class='cat-title'>hello</text></view>
+      <view><text class='cat-title'>hello</text></view>
+      <view><text class='cat-title'>hello</text></view>
+      <view><text class='cat-title'>hello</text></view>
+      <view><text class='cat-title'>hello</text></view>
+      <view><text class='cat-title'>hello</text></view>
+      <view><text class='cat-title'>hello</text></view>
+      <view><text class='cat-title'>hello</text></view>
+      <view><text class='cat-title'>hello</text></view>
+      <view><text class='cat-title'>hello</text></view>
+      <view><text class='cat-title'>hello</text></view>
+      <view><text class='cat-title'>hello</text></view>
+      <view><text class='cat-title'>hello</text></view>
+      <view><text class='cat-title'>hello</text></view>
+      <view><text class='cat-title'>hello</text></view>
+
+    </scroll-view>
+  </view>
+</view>

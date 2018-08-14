@@ -64,5 +64,34 @@ Page({
    */
   onShareAppMessage: function () {
   
+  },
+  gotoDetail: function(e) {
+    if ('me' == e.currentTarget.dataset.type) {
+      wx.navigateTo({
+        url: '../about/self/self',
+      })
+      return;
+    }
+
+    if ('sns' == e.currentTarget.dataset.type) {
+      wx.navigateTo({
+        url: '../about/sns/sns',
+      })
+      return;
+    }
+
+    if ('thx' == e.currentTarget.dataset.type) {
+      wx.navigateTo({
+        url: '../about/thx/thx',
+      })
+      return;
+    }
+
+    if ('site' == e.currentTarget.dataset.type) {
+      wx.navigateTo({
+        url: '../about/websit/websit',
+      })
+      return;
+    }
   }
 })
