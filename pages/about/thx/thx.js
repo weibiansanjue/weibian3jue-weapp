@@ -5,7 +5,7 @@ Page({
    * 页面的初始数据
    */
   data: {
-  
+    markdown: "# 感谢\n\n### wemark\n### iView\n### 汉仪字体\n### icon8\n### iconfont"
   },
 
   /**
