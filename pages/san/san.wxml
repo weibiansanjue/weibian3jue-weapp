@@ -13,7 +13,10 @@
       <view>PODCAST</view>
     </swiper-item>
     <swiper-item>
-      <view>VLOG</view>
+      <view>
+        <view>
+        </view>
+      </view>
     </swiper-item>
   </swiper>
 </view>
