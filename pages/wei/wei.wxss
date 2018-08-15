@@ -25,25 +25,25 @@
 .about-me {
   margin-left: 20rpx;
   margin-right: 10rpx;
-  background-image: url('http://p2desz41n.bkt.clouddn.com/me.png');
+  background-image: url('http://pdeqfl4n4.bkt.clouddn.com/about-me-bg.png');
 }
 
 .about-sit {
   margin-left: 10rpx;
   margin-right: 20rpx;
-  background-image: url('http://p2desz41n.bkt.clouddn.com/websit.png');
+  background-image: url('http://pdeqfl4n4.bkt.clouddn.com/about-weibsit-bg.png');
 }
 
 .about-sns {
   margin-top: 20rpx;
   margin-left: 20rpx;
   margin-right: 10rpx;
-  background-image: url('http://p2desz41n.bkt.clouddn.com/bg.png');
+  background-image: url('http://pdeqfl4n4.bkt.clouddn.com/about-sns-bg.png');
 }
 
 .about-thx {
   margin-top: 20rpx;
   margin-left: 10rpx;
   margin-right: 20rpx;
-  background-image: url('http://p2desz41n.bkt.clouddn.com/thx.png');
+  background-image: url('http://pdeqfl4n4.bkt.clouddn.com/about-thx-bg.png');
 }
