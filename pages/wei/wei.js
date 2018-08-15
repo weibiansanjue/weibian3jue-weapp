@@ -93,5 +93,15 @@ Page({
       })
       return;
     }
+  },
+  gotoBlog: function () {
+    wx.navigateTo({
+      url: '../page/page',
+    });
+  },
+  gotoVlog: function () {
+    wx.navigateTo({
+      url: '../san/vlog/vlog',
+    });
   }
 })

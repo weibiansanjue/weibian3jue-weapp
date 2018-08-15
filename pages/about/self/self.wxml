@@ -1,2 +1,10 @@
-<!--pages/about/self/self.wxml-->
-<text>pages/about/self/self.wxml</text>
+<view class='paper-header'>
+  <image class='img-title' src="http://pdeqfl4n4.bkt.clouddn.com/me.png"></image>
+</view>
+<view class="paper-data">
+  <view class="paper-mk">
+    <wemark md="{{markdown}}" link highlight type="wemark"></wemark>
+  </view>
+</view>
+<view class="paper-footer">
+</view>

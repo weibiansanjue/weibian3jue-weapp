@@ -1,13 +1,20 @@
 .blog-item {
-  width: 30%;
-  border-radius: 8px;
+  height: 210rpx;
+  margin: 10rpx 20rpx 10rpx 20rpx;
   border-style: solid;
-  border-width: 1px;
-  height: 100rpx;
-  background-image: url('https://lg-bfz00xae-1256031156.cos.ap-shanghai.myqcloud.com/bg.png');
-  background-size: cover;
+  border-width: 2rpx;
+  border-radius: 20rpx;
+  border-color: #ccc;
+  z-index: 1000;
 }
 
-.blog-container {
-  padding: 5rpx 15rpx 5rpx 15rpx;
+.blog-img {
+  background-size: cover;
+  background-image: url('http://pdeqfl4n4.bkt.clouddn.com/vim-nano.png');
+  width: 400rpx;
+  height: 100rpx;
+  border-radius: 20rpx 20rpx 0 0;
+  clear: both;
+  display: block;
+  margin: auto;
 }

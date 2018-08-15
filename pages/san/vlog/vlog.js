@@ -5,7 +5,7 @@ Page({
    * 页面的初始数据
    */
   data: {
-  
+    markdown: "# 2018-first-half-year-182s\n- 拍摄：iPhone\n- 制作：1 seconds everyday app\n- 剪辑：final cut pro x"
   },
 
   /**

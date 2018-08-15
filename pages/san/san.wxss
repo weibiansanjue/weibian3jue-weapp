@@ -1,4 +1,3 @@
-/* pages/san/san.wxss */
 .swiper-tab{
     width: 100%;
     border-bottom: 2rpx solid #ccc;
@@ -38,24 +37,25 @@ page,
   height:91%;
 }
 
-.blog-item {
-  width: 100%;
-  border-radius: 8px;
-border-style: solid; 
-border-width: 1px;
-  height: 150rpx;
-    background-image: url('http://img02.tooopen.com/images/20150928/tooopen_sy_143912755726.jpg');
+.vlog-item {
+  height: 410rpx;
+  margin: 10rpx 20rpx 10rpx 20rpx;
+  border-style: solid;
+  border-width: 2rpx;
+  border-radius: 20rpx;
+  border-color: #ccc;
+  z-index: 1000;
 }
 
-.blog-container {
-    padding: 5rpx 15rpx 5rpx 15rpx;
-
+.vlog-img {
+  background-position-x: center;
+  background-position-y: center;
+  background-size: cover;
+  background-image: url('http://pdeqfl4n4.bkt.clouddn.com/dab3fd222677182f30f74947e573fb4208a561f2.jpg');
+  	width: 100%;
+	height: 300rpx;
+    border-radius: 20rpx 20rpx 0 0;
 }
 
-.create-time {
-  /* float: right; */
-}
 
-.item-title {
-  /* float: right; */
-}
+

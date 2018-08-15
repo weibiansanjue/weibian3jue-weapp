@@ -1,0 +1,7 @@
+<view>
+  <view class='blog-item' bindtap='gotoBlog'>
+    <image class='blog-img'></image>
+    <view>Linux下简单编辑修改文本文件</view>
+    <view>2018-07-07</view>
+  </view>
+</view>

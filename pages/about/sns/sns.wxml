@@ -1,2 +1,15 @@
-<!--pages/about/sns/sns.wxml-->
-<text>pages/about/sns/sns.wxml</text>
+<view class='paper'>
+<view class='paper-header'>
+  <image class='img-title' src="http://pdeqfl4n4.bkt.clouddn.com/sns.png"></image>
+</view>
+<view class="paper-data">
+  <view class="paper-mk">
+    <wemark md="{{markdown}}" link highlight type="wemark"></wemark>
+  </view>
+  <view class='qr-img'>
+  <image src='http://pdeqfl4n4.bkt.clouddn.com/WeChatQ.jpg' bindtap="previewImage"></image>
+  </view>
+</view>
+<view class="paper-footer">
+</view>
+</view>

@@ -64,5 +64,10 @@ Page({
    */
   onShareAppMessage: function () {
   
+  },
+  gotoBlog: function () {
+    wx.navigateTo({
+      url: '../page/page',
+    });
   }
 })

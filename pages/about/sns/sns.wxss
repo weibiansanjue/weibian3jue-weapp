@@ -1,1 +1,28 @@
-/* pages/about/sns/sns.wxss */
+
+.paper-data {
+  padding: 0px 20px 10px 20px;
+}
+
+.paper-header {
+  width: 100%;
+  height: 48rpx;
+  margin-top: 10rpx;
+}
+
+.img-title {
+  width: 64rpx;
+  height: 48rpx;
+  clear: both;
+  display: block;
+  margin: auto;
+}
+
+.paper-data {
+  margin-top: 30rpx;
+  height:100%;
+}
+
+
+image {
+  height:640rpx;
+}

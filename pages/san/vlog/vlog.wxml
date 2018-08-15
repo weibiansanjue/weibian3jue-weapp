@@ -1,8 +1,6 @@
 <view>
-  <tx-video vid="r0731mzr48o"></tx-video>
-  <txv-video 
-  vid="r0731mzr48o"
-  playerid="txv1" 
-  autoplay="false"
-></txv-video>
-</view>,
+  <txv-video vid="r0731mzr48o" playerid="txv1" autoplay="false"></txv-video>
+    <view class="paper-mk">
+    <wemark md="{{markdown}}" link highlight type="wemark"></wemark>
+  </view>
+</view>

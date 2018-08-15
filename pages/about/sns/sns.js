@@ -5,7 +5,7 @@ Page({
    * 页面的初始数据
    */
   data: {
-  
+    markdown: "# 社交网络\n- 微信公众号\n"
   },
 
   /**
@@ -62,5 +62,10 @@ Page({
    */
   onShareAppMessage: function () {
   
+  },
+  previewImage: function(e) {
+    wx.previewImage({
+      urls: ['http://pdeqfl4n4.bkt.clouddn.com/WeChatQ.jpg'],
+    })
   }
 })

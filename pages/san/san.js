@@ -91,5 +91,11 @@ Page({
         currentTab: e.target.dataset.current
       })
     }
+  },
+
+  gotoVlog: function() {
+    wx.navigateTo({
+      url: 'vlog/vlog',
+    });
   }
 })

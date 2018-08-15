@@ -23,35 +23,97 @@
 </view>
 <view>
   <view>
-    <text class='cat-title'>内容</text>
+    <text class='cat-title'>过往</text>
   </view>
   <view>
     <scroll-view>
-      <view><text class='cat-title'>hello</text></view>
-      <view><text class='cat-title'>hello</text></view>
-      <view><text class='cat-title'>hello</text></view>
-      <view><text class='cat-title'>hello</text></view>
-      <view><text class='cat-title'>hello</text></view>
-      <view><text class='cat-title'>hello</text></view>
-      <view><text class='cat-title'>hello</text></view>
-      <view><text class='cat-title'>hello</text></view>
-      <view><text class='cat-title'>hello</text></view>
-      <view><text class='cat-title'>hello</text></view>
-      <view><text class='cat-title'>hello</text></view>
-      <view><text class='cat-title'>hello</text></view>
-      <view><text class='cat-title'>hello</text></view>
-      <view><text class='cat-title'>hello</text></view>
-      <view><text class='cat-title'>hello</text></view>
-      <view><text class='cat-title'>hello</text></view>
-      <view><text class='cat-title'>hello</text></view>
-      <view><text class='cat-title'>hello</text></view>
-      <view><text class='cat-title'>hello</text></view>
-      <view><text class='cat-title'>hello</text></view>
-      <view><text class='cat-title'>hello</text></view>
-      <view><text class='cat-title'>hello</text></view>
-      <view><text class='cat-title'>hello</text></view>
-      <view><text class='cat-title'>hello</text></view>
-      <view><text class='cat-title'>hello</text></view>
+      <view>
+        <view>
+          <view class='blog-item' bindtap='gotoBlog'>
+            <image class='blog-img'></image>
+            <view>Linux下简单编辑修改文本文件</view>
+            <view>2018-07-07</view>
+          </view>
+        </view>
+      </view>
+      <view>
+        <view>
+          <view class='vlog-item' bindtap='gotoVlog'>
+            <image class='vlog-img'></image>
+            <view>2018-first-half-year-182s</view>
+            <view>2018-07-22</view>
+          </view>
+        </view>
+      </view>
+      <view>
+        <text class='cat-title'>hello</text>
+      </view>
+      <view>
+        <text class='cat-title'>hello</text>
+      </view>
+      <view>
+        <text class='cat-title'>hello</text>
+      </view>
+      <view>
+        <text class='cat-title'>hello</text>
+      </view>
+      <view>
+        <text class='cat-title'>hello</text>
+      </view>
+      <view>
+        <text class='cat-title'>hello</text>
+      </view>
+      <view>
+        <text class='cat-title'>hello</text>
+      </view>
+      <view>
+        <text class='cat-title'>hello</text>
+      </view>
+      <view>
+        <text class='cat-title'>hello</text>
+      </view>
+      <view>
+        <text class='cat-title'>hello</text>
+      </view>
+      <view>
+        <text class='cat-title'>hello</text>
+      </view>
+      <view>
+        <text class='cat-title'>hello</text>
+      </view>
+      <view>
+        <text class='cat-title'>hello</text>
+      </view>
+      <view>
+        <text class='cat-title'>hello</text>
+      </view>
+      <view>
+        <text class='cat-title'>hello</text>
+      </view>
+      <view>
+        <text class='cat-title'>hello</text>
+      </view>
+      <view>
+        <text class='cat-title'>hello</text>
+      </view>
+      <view>
+        <text class='cat-title'>hello</text>
+      </view>
+      <view>
+        <text class='cat-title'>hello</text>
+      </view>
+      <view>
+        <text class='cat-title'>hello</text>
+      </view>
+      <view>
+        <text class='cat-title'>hello</text>
+      </view>
+      <view>
+        <text class='cat-title'>hello</text>
+      </view>
+      <view>
+        <text class='cat-title'>hello</text>
+      </view>
 
     </scroll-view>
   </view>

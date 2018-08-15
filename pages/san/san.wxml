@@ -8,13 +8,17 @@
 <view class="swiper-data">
   <swiper current="{{currentTab}}" duration="300" bindchange="swiperTab">
     <swiper-item>
+      <view>暂时没有内容，看看视频吧</view>
     </swiper-item>
     <swiper-item>
-      <view>PODCAST</view>
+      <view>暂时没有内容，看看视频吧</view>
     </swiper-item>
     <swiper-item>
       <view>
-        <view>
+        <view class='vlog-item' bindtap='gotoVlog'>
+          <image class='vlog-img'></image>
+          <view>2018-first-half-year-182s</view>
+          <view>2018-07-22</view>
         </view>
       </view>
     </swiper-item>
