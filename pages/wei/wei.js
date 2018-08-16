@@ -99,6 +99,11 @@ Page({
       url: '../page/page',
     });
   },
+  gotoBlog1: function () {
+    wx.navigateTo({
+      url: '../san/blog/blog',
+    });
+  },
   gotoVlog: function () {
     wx.navigateTo({
       url: '../san/vlog/vlog',

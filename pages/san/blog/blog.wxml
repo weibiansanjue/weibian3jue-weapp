@@ -1,0 +1,11 @@
+<view class='paper'>
+  <view class='paper-header'>
+  </view>
+  <view class="paper-data">
+    <view class="paper-mk">
+      <wemark md="{{markdown}}" link highlight type="wemark"></wemark>
+    </view>
+  </view>
+  <view class="paper-footer">
+  </view>
+</view>

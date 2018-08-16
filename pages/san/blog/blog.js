@@ -1,11 +1,11 @@
-// pages/about/thx/thx.js
+// pages/san/blog/blog.js
 Page({
 
   /**
    * 页面的初始数据
    */
   data: {
-    markdown: "# 感谢\n\n### wemark\n### iView\n### 汉仪字体\n### icon8\n### iconfont\n### github YangXiaoP/weChatVideoPlay 项目"
+    markdown: "# 冷冷夜里的一瞬间\n\n大风起兮\n\n解裤腰\n\n风华正茂\n\n迎风尿\n\n仰天一声啸\n\n别哭别笑\n\n\n哦......\n\n\n"
   },
 
   /**

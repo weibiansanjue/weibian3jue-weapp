@@ -97,5 +97,11 @@ Page({
     wx.navigateTo({
       url: 'vlog/vlog',
     });
+  },
+
+  gotoBlog1: function() {
+    wx.navigateTo({
+      url: 'blog/blog',
+    })
   }
 })

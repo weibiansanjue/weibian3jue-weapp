@@ -2,3 +2,7 @@
 .paper-mk {
   margin: 0 20rpx 0rpx 20rpx;
 }
+video {
+  width: 100%;
+  height: 422rpx;
+}

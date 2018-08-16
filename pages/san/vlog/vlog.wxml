@@ -1,6 +1,10 @@
 <view>
-  <txv-video vid="r0731mzr48o" playerid="txv1" autoplay="false"></txv-video>
-    <view class="paper-mk">
+  <!-- <txv-video vid="r0731mzr48o" playerid="txv1" autoplay="false"></txv-video> -->
+  <view class=''>
+    <video id="myVideo" objectFit="cover" autoplay="false" bindended="playEnd" src="{{videUrl}}">
+    </video>
+  </view>
+  <view class="paper-mk">
     <wemark md="{{markdown}}" link highlight type="wemark"></wemark>
   </view>
 </view>

@@ -27,92 +27,29 @@
   </view>
   <view>
     <scroll-view>
+
       <view>
-        <view>
-          <view class='blog-item' bindtap='gotoBlog'>
-            <image class='blog-img'></image>
-            <view>Linux下简单编辑修改文本文件</view>
-            <view>2018-07-07</view>
-          </view>
+        <view class='vlog-item' bindtap='gotoVlog'>
+          <image class='vlog-img'></image>
+          <view>2018-first-half-year-182s</view>
+          <view>2018-07-22</view>
         </view>
       </view>
+
       <view>
-        <view>
-          <view class='vlog-item' bindtap='gotoVlog'>
-            <image class='vlog-img'></image>
-            <view>2018-first-half-year-182s</view>
-            <view>2018-07-22</view>
-          </view>
+        <view class='blog-item' bindtap='gotoBlog'>
+          <image class='blog-img' src='http://pdeqfl4n4.bkt.clouddn.com/vim-nano.png'></image>
+          <view>Linux下简单编辑修改文本文件</view>
+          <view>2018-07-07</view>
         </view>
       </view>
+
       <view>
-        <text class='cat-title'>hello</text>
-      </view>
-      <view>
-        <text class='cat-title'>hello</text>
-      </view>
-      <view>
-        <text class='cat-title'>hello</text>
-      </view>
-      <view>
-        <text class='cat-title'>hello</text>
-      </view>
-      <view>
-        <text class='cat-title'>hello</text>
-      </view>
-      <view>
-        <text class='cat-title'>hello</text>
-      </view>
-      <view>
-        <text class='cat-title'>hello</text>
-      </view>
-      <view>
-        <text class='cat-title'>hello</text>
-      </view>
-      <view>
-        <text class='cat-title'>hello</text>
-      </view>
-      <view>
-        <text class='cat-title'>hello</text>
-      </view>
-      <view>
-        <text class='cat-title'>hello</text>
-      </view>
-      <view>
-        <text class='cat-title'>hello</text>
-      </view>
-      <view>
-        <text class='cat-title'>hello</text>
-      </view>
-      <view>
-        <text class='cat-title'>hello</text>
-      </view>
-      <view>
-        <text class='cat-title'>hello</text>
-      </view>
-      <view>
-        <text class='cat-title'>hello</text>
-      </view>
-      <view>
-        <text class='cat-title'>hello</text>
-      </view>
-      <view>
-        <text class='cat-title'>hello</text>
-      </view>
-      <view>
-        <text class='cat-title'>hello</text>
-      </view>
-      <view>
-        <text class='cat-title'>hello</text>
-      </view>
-      <view>
-        <text class='cat-title'>hello</text>
-      </view>
-      <view>
-        <text class='cat-title'>hello</text>
-      </view>
-      <view>
-        <text class='cat-title'>hello</text>
+        <view class='blog-item' bindtap='gotoBlog1'>
+          <image class='blog-img1' src='http://pdeqfl4n4.bkt.clouddn.com/dark-night.jpg'></image>
+          <view>冷冷夜里的一瞬间</view>
+          <view>2018-02-04</view>
+        </view>
       </view>
 
     </scroll-view>
